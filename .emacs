@@ -46,7 +46,7 @@
           ( "M-d" . delete-window)
           ( "M-s" . save-buffer)
           ( "M-b" . list-buffers)
-          ( "M-c" . save-buffers-kill-terminal)
+          ( "M-o" . save-buffers-kill-terminal)
   )
 
 

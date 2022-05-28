@@ -42,7 +42,7 @@
           ( "M-h" . move-beginning-of-line)
           ( "M-'" . move-end-of-line)
           ( "M-u" . undo)
-          ( "M-o" . other-window)
+          ( "M-n" . other-window)
           ( "M-d" . delete-window)
           ( "M-s" . save-buffer)
           ( "M-b" . list-buffers)
